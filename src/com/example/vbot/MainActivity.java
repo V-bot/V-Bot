@@ -74,7 +74,7 @@ public class MainActivity extends Activity implements
 	int motorC = 0;
 	boolean mFalse = false;
 
-	/** Called when the activity is first created. */
+	/** Det som händer när programmet startas. */
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
